@@ -1,0 +1,53 @@
+[
+    {
+      "question": "Što je kvantna mehanika?",
+      "options": [
+        "Teorija relativnosti",
+        "Teorija o električnim i magnetskim poljima",
+        "Teorija koja opisuje ponašanje subatomskih čestica",
+        "Teorija gravitacije"
+      ],
+      "correctAnswer": "Teorija koja opisuje ponašanje subatomskih čestica"
+    },
+    {
+      "question": "Tko je postavio temelje kvantne teorije?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Max Planck"
+      ],
+      "correctAnswer": "Max Planck"
+    },
+    {
+      "question": "Što je Heisenbergovo načelo neodređenosti?",
+      "options": [
+        "Princip koji opisuje gravitaciju",
+        "Princip koji opisuje odnos između mase i ubrzanja",
+        "Princip koji opisuje ograničenje preciznosti mjerenja nekih parova fizikalnih svojstava",
+        "Princip koji opisuje gibanje tijela"
+      ],
+      "correctAnswer": "Princip koji opisuje ograničenje preciznosti mjerenja nekih parova fizikalnih svojstava"
+    },
+    {
+      "question": "Kako se naziva pojava kada se subatomski čestice mogu nalaziti u više mjesta istovremeno?",
+      "options": [
+        "Superkonduktivnost",
+        "Superpozicija",
+        "Supernova",
+        "Supersimetrija"
+      ],
+      "correctAnswer": "Superpozicija"
+    },
+    {
+      "question": "Što je tunelski efekt u kvantnoj fizici?",
+      "options": [
+        "Pojava prolaska čestica kroz energetsku barijeru koja ih klasično ne bi mogla proći",
+        "Pojava savijanja svjetlosti",
+        "Pojava promjene električnog naboja",
+        "Pojava prelaska čestica na višu energetsku razinu"
+      ],
+      "correctAnswer": "Pojava prolaska čestica kroz energetsku barijeru koja ih klasično ne bi mogla proći"
+    }
+  ]
+  

@@ -1,0 +1,23 @@
+[
+    {
+      "question": "Kojim uređajem mjerimo električni napon?",
+      "options": ["Ampermetrom", "Voltmetrom", "Vodičem", "Magnetom"],
+      "correctAnswer": "Voltmetrom"
+    },
+    {
+      "question": "Koja je oznaka za elektičnu struju?",
+      "options": ["I", "Q", "E", "S"],
+      "correctAnswer": "I"
+    },
+    {
+      "question": "Kako računamo električni napon?",
+      "options": ["U = I + W", "U = Q / I", "U = W / Q", "U = W * Q"],
+      "correctAnswer": "U = W / Q"
+    },
+    {
+      "question": "Koje tri osnovne veličine povezuje Ohmov zakon?",
+      "options": ["Napon, rad i otpor", "Struju, otpor i vrijeme", "Struju, napon i otpor", "Otpor, napon i vrijeme"],
+      "correctAnswer": "Struju, napon i otpor"
+    }
+  ]
+  

@@ -1,0 +1,51 @@
+/* OsnoveGibanja.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f8f8f8;
+  }
+  
+  
+  
+  .lesson {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    transition: transform 0.3s;
+  }
+  
+  .lesson:hover {
+    transform: scale(1.10);
+  }
+  
+  
+  
+  .lesson p {
+    color: #333;
+  }
+  
+  .lesson-content {
+    margin-top: 15px;
+  }
+  
+  .formula {
+    background-color: #ecf0f1; 
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 15px;
+    border: 1px solid #bdc3c7; 
+  }
+  
+  /* Responsive design for smaller screens */
+  @media (max-width: 768px) {
+    .lesson {
+      padding: 15px;
+    }
+  }
+  

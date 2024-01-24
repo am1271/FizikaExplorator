@@ -1,0 +1,28 @@
+[
+  {
+    "question": "Kako se definira brzina?",
+    "options": ["Put / Vrijeme", "Vrijeme / Put", "Ubrzanje x Vrijeme", "Brzina x Put"],
+    "correctAnswer": "Put / Vrijeme"
+  },
+  {
+    "question": "Kako se definira ubrzanje?",
+    "options": ["Put / Vrijeme", "Vrijeme / Brzina", "Brzina x Vrijeme", "Promjena brzine / Vrijeme"],
+    "correctAnswer": "Promjena brzine / Vrijeme"
+  },
+  {
+    "question": "Što je jednoliko pravocrtno gibanje?",
+    "options": ["Gibanje u krug", "Gibanje s promjenjivom brzinom", "Gibanje s konstantnom brzinom", "Gibanje prema gore"],
+    "correctAnswer": "Gibanje s konstantnom brzinom"
+  },
+  {
+    "question": "Kako se mjeri brzina?",
+    "options": ["Metrima po sekundi", "Kilogramima", "Sekundama po metru", "Litrama po sekundi"],
+    "correctAnswer": "Metrima po sekundi"
+  },
+  {
+    "question": "Što je inercija?",
+    "options": ["Sila koja djeluje prema gore", "Sklonost tijela da miruje ili nastavi gibanje", "Brzina svjetlosti", "Električna energija"],
+    "correctAnswer": "Sklonost tijela da miruje ili nastavi gibanje"
+  }
+  ]
+  

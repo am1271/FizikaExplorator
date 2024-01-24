@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "title": "Osnove gibanja",
+      "description": "Učenje osnovnih pojmova o gibanju, brzini i ubrzanju.",
+      "image": "../imgs/Osnove gibanja.jpg",
+      "level": "Osnovna škola"
+    },
+    {
+      "id": 2,
+      "title": "Toplina i unutarnja energija",
+      "description": "Prijenos topline, promjene agregatnih stanja, unutarnja energija",
+      "image": "../imgs/Unutarnja energija.jpg",
+      "level": "Osnovna škola"
+    },
+    {
+        "id": 3,
+        "title": "Električna struja",
+        "description": "Električna struja, magnetsko polje, otpor, napon, elektromagnet",
+        "image": "../imgs/Elektromagnetizam3.jpg",
+        "level": "Osnovna škola"
+    },
+    {
+        "id": 4,
+        "title": "Valovi i svjetlost",
+        "description": "Zakon odbijanja i loma svjetlosti, frekvencija, valna duljina, formiranje slike",
+        "image": "../imgs/Valovi i svjetlost.jpg",
+        "level": "Osnovna škola"
+      },
+      {
+        "id": 5,
+        "title": "Mehanika",
+        "description": "Gibanje tijela, sila i energija",
+        "image": "../imgs/Mehanika.jpg",
+        "level": "Srednja škola"
+      },
+      {
+        "id": 6,
+        "title": "Termodinamika",
+        "description": "Toplinski procesi, energija i ravnoteža sustava",
+        "image": "../imgs/Termodinamika.jpg",
+        "level": "Srednja škola"
+      },
+      {
+        "id": 7,
+        "title": "Elektricitet i magnetizam",
+        "description": "Pravila električnih i magnetskih pojava te elektromagnetske indukcije",
+        "image": "../imgs/Elektricitet i magnetizam.jpg",
+        "level": "Srednja škola"
+      },
+      {
+        "id": 8,
+        "title": "Titranje, valovi i optika",
+        "description": "Valovi, zvuk, svjetlost, leće, ogledala, interferencija i difrakcija",
+        "image": "../imgs/Valovi i svjetlost.jpg",
+        "level": "Srednja škola"
+      },
+      {
+        "id": 9,
+        "title": "Moderna fizika",
+        "description": "Relativnost, kvantna mehanika i nukleara fizika",
+        "image": "../imgs/Moderna fizika.jpg",
+        "level": "Srednja škola"
+      }
+  ]

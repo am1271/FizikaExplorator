@@ -1,0 +1,34 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+
+  /* App.css */
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .flex-grow-1 {
+    flex-grow: 1;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    #root {
+      margin: 0 auto;
+      padding: 1rem; /* Smanjite padding za mobilne uređaje */
+      text-align: center;
+    }
+  
+    .flex-container {
+      min-height: auto; /* Manje visine za mobilne uređaje */
+    }
+  
+    .flex-grow-1 {
+      flex-grow: 1;
+      margin-bottom: 1rem; /* Dodajte dodatni prostor na dnu za bolji izgled na mobilnim uređajima */
+    }
+  }

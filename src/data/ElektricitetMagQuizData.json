@@ -1,0 +1,53 @@
+[
+    {
+      "question": "Što je električna struja?",
+      "options": [
+        "Gibanje atoma u tijelu",
+        "Gibanje elektrona",
+        "Gibanje svjetlosti",
+        "Gibanje magnetnih polova"
+      ],
+      "correctAnswer": "Gibanje elektrona"
+    },
+    {
+      "question": "Što predstavlja Ohmov zakon?",
+      "options": [
+        "Odnos između mase i ubrzanja tijela",
+        "Odnos između naboja, struje i otpora",
+        "Odnos između sile, mase i ubrzanja",
+        "Odnos između tlaka i volumena plina"
+      ],
+      "correctAnswer": "Odnos između naboja, struje i otpora"
+    },
+    {
+      "question": "Kako se naziva uređaj koji pretvara električnu energiju u mehaničku energiju?",
+      "options": [
+        "Baterija",
+        "Generator",
+        "Otpornik",
+        "Transformator"
+      ],
+      "correctAnswer": "Generator"
+    },
+    {
+      "question": "Što je elektromagnetski val?",
+      "options": [
+        "Val svjetlosti",
+        "Val magnetnog polja",
+        "Val električnog polja",
+        "Val koji nastaje kretanjem naboja"
+      ],
+      "correctAnswer": "Val koji nastaje kretanjem naboja"
+    },
+    {
+      "question": "Što je magnetski dipol?",
+      "options": [
+        "Mjera magnetske indukcije",
+        "Magnetski materijal",
+        "Izvor magnetskog polja",
+        "Spoj dvaju magneta"
+      ],
+      "correctAnswer": "Izvor magnetskog polja"
+    }
+  ]
+  

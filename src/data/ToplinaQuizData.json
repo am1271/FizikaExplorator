@@ -1,0 +1,23 @@
+[
+    {
+      "question": "Koliko iznosi apsolutna nula?",
+      "options": ["0°C", "-273°C", "-500°C", "-1000°C"],
+      "correctAnswer": "-273°C"
+    },
+    {
+      "question": "Što je unutarnja energija tijela?",
+      "options": ["Energija gibanja tijela", "Zbroj kinetički i potencijalnih energija svih čestica tijela", "Energija svjetlosti", "Električna energija"],
+      "correctAnswer": "Zbroj kinetički i potencijalnih energija svih čestica tijela"
+    },
+    {
+      "question": "Koja je mjerna jedinica za temperaturu?",
+      "options": ["Kelvini", "Lumeni", "Watti", "Newtoni"],
+      "correctAnswer": "Kelvini"
+    },
+    {
+      "question": "Koja je oznaka za toplinu",
+      "options": ["T", "t", "Q", "J"],
+      "correctAnswer": "Q"
+    }
+  ]
+  

@@ -1,0 +1,18 @@
+[
+    {
+      "question": "Kako se naziva najmanja udaljenost između dviju točaka na valovima?",
+      "options": ["Valna duljina", "Amplituda", "Frekvencija", "Brzina vala"],
+      "correctAnswer": "Valna duljina"
+    },
+    {
+      "question": "Koje boje svjetlosti imaju veću frekvenciju?",
+      "options": ["Crvena", "Zelena", "Plava", "Žuta"],
+      "correctAnswer": "Plava"
+    },
+    {
+      "question": "Koja vrsta valova zahtijeva sredinu za prijenos?",
+      "options": ["Elektromagnetski valovi", "Zvukovni valovi", "Površinski valovi", "Longitudinalni valovi"],
+      "correctAnswer": "Longitudinalni valovi"
+    }
+  ]
+  

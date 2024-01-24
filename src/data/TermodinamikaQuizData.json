@@ -1,0 +1,53 @@
+[
+    {
+      "question": "Što je termodinamika?",
+      "options": [
+        "Grana fizike koja proučava gibanje tijela",
+        "Grana fizike koja proučava toplinske i energetske promjene",
+        "Grana matematike koja proučava valove",
+        "Grana fizike koja proučava električne pojave"
+      ],
+      "correctAnswer": "Grana fizike koja proučava toplinske i energetske promjene"
+    },
+    {
+      "question": "Što je unutarnja energija tijela?",
+      "options": [
+        "Energija gibanja tijela",
+        "Energija koja se ne može promijeniti",
+        "Energija čestica unutar tijela",
+        "Energija svjetlosti"
+      ],
+      "correctAnswer": "Energija čestica unutar tijela"
+    },
+    {
+      "question": "Kako se definira termodinamički sustav?",
+      "options": [
+        "Svaki predmet ostaje u mirovanju ili ravnomjernom gibanju",
+        "Prostor ili skup tvari kojima se proučavaju termodinamički procesi",
+        "Sustav koji ne mijenja svoje svojstva",
+        "Sustav koji je uvijek u termodinamičkoj ravnoteži"
+      ],
+      "correctAnswer": "Prostor ili skup tvari kojima se proučavaju termodinamički procesi"
+    },
+    {
+      "question": "Kako se naziva proces u kojem tijelo gubi toplinu?",
+      "options": [
+        "Adijabatski proces",
+        "Izotermni proces",
+        "Izobarški proces",
+        "Izohorni proces"
+      ],
+      "correctAnswer": "Adijabatski proces"
+    },
+    {
+      "question": "Što je termodinamička ravnoteža?",
+      "options": [
+        "Stanje u kojem ne postoje termodinamički procesi",
+        "Stanje u kojem se sustav ne mijenja tijekom vremena",
+        "Stanje u kojem su sve sile u ravnoteži",
+        "Stanje u kojem je temperatura uvijek ista"
+      ],
+      "correctAnswer": "Stanje u kojem se sustav ne mijenja tijekom vremena"
+    }
+  ]
+  

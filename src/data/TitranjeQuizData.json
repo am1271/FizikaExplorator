@@ -1,0 +1,53 @@
+[
+    {
+      "question": "Što je titranje?",
+      "options": [
+        "Gibanje tijela oko svoje osi",
+        "Periodično gibanje tijela",
+        "Naglo gibanje tijela",
+        "Gibanje tijela s promjenjivom brzinom"
+      ],
+      "correctAnswer": "Periodično gibanje tijela"
+    },
+    {
+      "question": "Što je amplitude titranja?",
+      "options": [
+        "Vrijeme trajanja titranja",
+        "Najmanja udaljenost tijela od ravnotežnog položaja",
+        "Maksimalna udaljenost tijela od ravnotežnog položaja",
+        "Brzina titranja tijela"
+      ],
+      "correctAnswer": "Maksimalna udaljenost tijela od ravnotežnog položaja"
+    },
+    {
+      "question": "Što je frekvencija titranja?",
+      "options": [
+        "Brzina titranja tijela",
+        "Broj titranja u jedinici vremena",
+        "Udaljenost tijela od ravnotežnog položaja",
+        "Period titranja tijela"
+      ],
+      "correctAnswer": "Broj titranja u jedinici vremena"
+    },
+    {
+      "question": "Kako se mjeri vrijeme trajanja titranja?",
+      "options": [
+        "U sekundama",
+        "U metrima",
+        "U Hertzima",
+        "U amplitudama"
+      ],
+      "correctAnswer": "U sekundama"
+    },
+    {
+      "question": "Što je rezonancija?",
+      "options": [
+        "Titranje tijela s malom amplitudom",
+        "Titranje tijela s velikom amplitudom",
+        "Periodično titranje tijela",
+        "Povećanje amplitude titranja zbog periodičnog djelovanja vanjske sile"
+      ],
+      "correctAnswer": "Povećanje amplitude titranja zbog periodičnog djelovanja vanjske sile"
+    }
+  ]
+  

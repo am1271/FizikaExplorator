@@ -1,0 +1,53 @@
+[
+    {
+      "question": "Kako glasi Newtonov prvi zakon?",
+      "options": [
+        "Svaki predmet ostaje u mirovanju ili ravnomjernom gibanju sve dok na njega ne djeluje rezultanta sila",
+        "Sila jednaka masi puta ubrzanje",
+        "Za svaku akciju postoji jednaka i suprotna reakcija",
+        "Energija se ne može stvoriti niti uništiti, već samo pretvarati iz jednog oblika u drugi"
+      ],
+      "correctAnswer": "Svaki predmet ostaje u mirovanju ili ravnomjernom gibanju sve dok na njega ne djeluje rezultanta sila"
+    },
+    {
+      "question": "Kako se izračunava ubrzanje tijela?",
+      "options": [
+        "Ubrzanje = Sila / Masa",
+        "Ubrzanje = Masa / Sila",
+        "Ubrzanje = Sila x Masa",
+        "Ubrzanje = Masa - Sila"
+      ],
+      "correctAnswer": "Ubrzanje = Sila / Masa"
+    },
+    {
+      "question": "Kako glasi Newtonov drugi zakon?",
+      "options": [
+        "Svaki predmet ostaje u mirovanju ili ravnomjernom gibanju sve dok na njega ne djeluje rezultanta sila",
+        "Sila jednaka masi puta ubrzanje",
+        "Za svaku akciju postoji jednaka i suprotna reakcija",
+        "Energija se ne može stvoriti niti uništiti, već samo pretvarati iz jednog oblika u drugi"
+      ],
+      "correctAnswer": "Sila jednaka masi puta ubrzanje"
+    },
+    {
+      "question": "Što predstavlja rezultanta sila?",
+      "options": [
+        "Zbroj svih sila koje djeluju na tijelo",
+        "Umnožak svih sila koje djeluju na tijelo",
+        "Razlika svih sila koje djeluju na tijelo",
+        "Sila koja ne utječe na tijelo"
+      ],
+      "correctAnswer": "Zbroj svih sila koje djeluju na tijelo"
+    },
+    {
+      "question": "Kako se mjeri težina tijela?",
+      "options": [
+        "U newtonima",
+        "U kilogramima",
+        "U metrima po sekundi",
+        "U joulima"
+      ],
+      "correctAnswer": "U newtonima"
+    }
+  ]
+  
