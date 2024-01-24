@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import { useSpring, animated, SpringValue } from "react-spring";
+import { useState } from "react";
+import { animated } from "react-spring";
 import {
   LineChart,
   Line,
