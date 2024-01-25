@@ -53,7 +53,7 @@ const PretvaracBrzine: React.FC<PretvaracBrzineProps> = ({
   return (
     <div className="bg-light mt-4">
       <br />
-      <h2 className="mb-4">Pretvarač brzine</h2>
+      <h2 className="mb-4">Brzina</h2>
 
       <div className="mb-3">
         <label>Unesite vrijednost: </label>

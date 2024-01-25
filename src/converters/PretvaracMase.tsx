@@ -50,7 +50,7 @@ const PretvaracMase: React.FC<PretvaracMaseProps> = ({ closeConverter }) => {
   return (
     <div className="bg-light mt-4">
       <br />
-      <h2 className="mb-4">Pretvarač mase</h2>
+      <h2 className="mb-4">Masa</h2>
 
       <div className="mb-3">
         <label>Unesite vrijednost: </label>

@@ -52,7 +52,7 @@ const PretvaracVolumena: React.FC<PretvaracVolumenaProps> = ({
   return (
     <div className="bg-light mt-4">
       <br />
-      <h2 className="mb-4">Pretvarač volumena</h2>
+      <h2 className="mb-4">Volumena</h2>
 
       <div className="mb-3">
         <label>Unesite vrijednost: </label>

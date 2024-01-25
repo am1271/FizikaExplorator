@@ -43,44 +43,53 @@ const VelocityAccelerationGraph = () => {
   }
 
   return (
-    <div>
-      <h2>Animirani grafovi za brzinu i ubrzanje</h2>
-
+    <div className="container mt-4">
+      <h2 className="text-center">Interaktivni grafovi za brzinu i ubrzanje</h2>
+      <br />
       {/* User input for distance, time, initial velocity, and acceleration */}
-      <div>
-        <label>Distance (m):</label>
-        <input
-          type="number"
-          value={distance}
-          onChange={(e) => setDistance(parseFloat(e.target.value))}
-        />
-        <br />
-
-        <label>Time (s):</label>
-        <input
-          type="number"
-          value={time}
-          onChange={(e) => setTime(parseFloat(e.target.value))}
-        />
-        <br />
-
-        <label>Initial Velocity (m/s):</label>
-        <input
-          type="number"
-          value={initialVelocity}
-          onChange={(e) => setInitialVelocity(parseFloat(e.target.value))}
-        />
-        <br />
-
-        <label>Acceleration (m/s²):</label>
-        <input
-          type="number"
-          value={accelerationInput}
-          onChange={(e) => setAccelerationInput(parseFloat(e.target.value))}
-        />
+      <div className="row justify-content-center">
+        <form className="col-md-6">
+          <div className="mb-3">
+            <label className="form-label">Put (m):</label>
+            <input
+              type="number"
+              className="form-control"
+              value={distance}
+              onChange={(e) => setDistance(parseFloat(e.target.value))}
+            />
+          </div>
+          <div className="mb-3">
+            <label className="form-label">Vrijeme (s):</label>
+            <input
+              type="number"
+              className="form-control"
+              value={time}
+              onChange={(e) => setTime(parseFloat(e.target.value))}
+            />
+          </div>
+          <div className="mb-3">
+            <label className="form-label">Početna brzina (m/s):</label>
+            <input
+              type="number"
+              className="form-control"
+              value={initialVelocity}
+              onChange={(e) => setInitialVelocity(parseFloat(e.target.value))}
+            />
+          </div>
+          <div className="mb-3">
+            <label className="form-label">Akceleracija (m/s²):</label>
+            <input
+              type="number"
+              className="form-control"
+              value={accelerationInput}
+              onChange={(e) => setAccelerationInput(parseFloat(e.target.value))}
+            />
+          </div>
+        </form>
       </div>
-      <div>
+      <div className="row justify-content-center">
         {/* Grafički prikaz brzine */}
+        <br />
         <h3>Brzina</h3>
         <animated.div>
           <LineChart

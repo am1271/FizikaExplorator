@@ -38,7 +38,7 @@ export function Calculators() {
   return (
     <div className="container mt-4">
       {/* Pretvarači */}
-      <h1 className="text-center mb-4">Pretvarači</h1>
+      <h1 className="text-center mb-4">Pretvarači mjernih jedinica</h1>
       <div className="d-flex flex-wrap justify-content-center align-items-center gap-2">
         <button
           className="btn btn-outline-dark mb-2"
@@ -170,7 +170,7 @@ export function Calculators() {
 
       {/* Konstante */}
       <div className="mt-4">
-        <h1 className="text-center mb-4">Konstante</h1>
+        <h1 className="text-center mb-1">Konstante</h1>
         <div className="slika text-center">
           <img
             src="../imgs/Konstante.png"
@@ -181,7 +181,6 @@ export function Calculators() {
       </div>
 
       <div className="mt-4 " style={{ maxWidth: "800px", margin: "auto" }}>
-        <h3>Simulatori</h3>
         <div style={{ position: "relative", width: "100%", height: "100%" }}>
           <Container>
             <VelocityAccelerationGraph />

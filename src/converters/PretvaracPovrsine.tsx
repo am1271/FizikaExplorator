@@ -51,7 +51,7 @@ const PretvaracPovrsine: React.FC<PretvaracPovrsineProps> = ({
   return (
     <div className="bg-light mt-4">
       <br />
-      <h2 className="mb-4">Pretvarač površine</h2>
+      <h2 className="mb-4">Površina</h2>
 
       <div className="mb-3">
         <label>Unesite vrijednost: </label>
